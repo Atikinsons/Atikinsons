@@ -8,5 +8,3 @@
 #### [online shop(For fun)](https://github.com/Atikinsons/test_shop.git)
 
 ## I`m still studying web and C++
-
-
